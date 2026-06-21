@@ -99,6 +99,6 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 
 ## 🎯 Visão profissional
 
-Experiência focada em **prevenção, gestão de segurança e suporte operacional**, com atuação direta em ambientes de alta responsabilidade, como hospitais e saúde ocupacional.## ⚡ Sempre aprendendo
+Experiência focada em **prevenção, gestão de segurança e suporte operacional**, com atuação direta em ambientes de alta responsabilidade, com saúde ocupacional.## ⚡ Sempre aprendendo
 > “O conhecimento conecta todas as áreas que eu escolhi seguir.”
 </p>
