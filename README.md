@@ -10,10 +10,18 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 
 ## 🎓 Formação
 
-![ADS](https://img.shields.io/badge/ADS-UTFPR-blue)
-![Biomedicina](https://img.shields.io/badge/Biomedicina-em%20andamento-green)
-![SST](https://img.shields.io/badge/Segurança%20do%20Trabalho-Técnico-orange)
-![Aviação](https://img.shields.io/badge/Aviação-Formação-lightgrey)  
+🖥️ **Tecnologia**
+- ADS – UTFPR
+
+🧪 **Saúde**
+- Biomedicina (em andamento)
+- Técnico em Segurança do Trabalho
+
+✈️ **Aviação**
+- Curso complementar em manutenção aeronáutica
+
+📚 **Desenvolvimento contínuo**
+- Programação e tecnologia
 
 ## Sobre mim
 Sou uma profissional com formação multidisciplinar e interesse em tecnologia, saúde, segurança e aviação. No GitHub, utilizo este espaço para registrar meus estudos, projetos e evolução na área de desenvolvimento.
