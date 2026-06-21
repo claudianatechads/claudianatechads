@@ -38,9 +38,9 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 
 # 🧾 Experiência Profissional
 
-<p align="left">
+< align="left">
   🚀 Experiência na área de Segurança do Trabalho com atuação em ambiente hospitalar e saúde ocupacional.
-</p>
+
 
 ---
 
@@ -104,3 +104,4 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 
 Experiência focada em **prevenção, gestão de segurança e suporte operacional**, com atuação direta em ambientes de alta responsabilidade, como hospitais e saúde ocupacional.## ⚡ Sempre aprendendo
 > “O conhecimento conecta todas as áreas que eu escolhi seguir.”
+</p>
