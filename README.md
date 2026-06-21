@@ -19,7 +19,7 @@ Concluí o ensino médio no **Rio Grande do Sul**, junto com a formação técni
 
 Atualmente, estou focada em **Análise e Desenvolvimento de Sistemas**, na UTFPR – Ponta Grossa, direcionando meus estudos para tecnologia, programação e desenvolvimento de soluções.
 
-Também possuo formação na área de **Aviação**, atuando como Comissário de Voo e com conhecimentos em Manutenção de Aeronaves, além de estar em formação em **Biomedicina**, ampliando minha visão na área da saúde.
+Também possuo formação na área de **Aviação**, Profissional Comissário de Voo com CCT e com conhecimentos em Manutenção de Aeronaves, além de estar em formação em **Biomedicina**, ampliando minha visão na área da saúde.
 </details>
 
 ---
@@ -45,6 +45,19 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 
 ---
 
+##  Assistente Partner
+
+<details>
+<summary><strong>🏢 Agair Update | Aviação Agricola (05/2022 – 07/2023)</strong></summary>
+
+📍 Brasil 
+
+### 💻 Atividades 
+- Comercial em vendas
+</details>
+
+---
+
 ## 🦺 Técnico de Segurança do Trabalho
 
 <details>
@@ -61,16 +74,6 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 - Controle de exames ocupacionais (admissionais, periódicos e demissionais)  
 
 </details>
-
----
-
-<details>
-<summary><strong>🏢 Agair Update | Aviação Agricola (05/2022 – 07/2023)</strong></summary>
-
-📍 Brasil  
-</details>
-
-Assistente Partner
 
 ---
 
