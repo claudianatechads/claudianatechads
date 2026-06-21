@@ -8,7 +8,10 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UTFPR – Ponta Gros
 
 Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividades acadêmicas e projetos desenvolvidos ao longo da minha jornada na tecnologia.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UTFPR  
+<img 
+    aling="left"
+    alt = "🎓 Estudante de Análise e Desenvolvimento de Sistemas na UTFPR"
+/>
 🦺 Técnica em Segurança do Trabalho  
 ✈️ Formação complementar em aviação e manutenção de aeronaves  
 🧪 Graduanda em Biomedicina  
@@ -24,7 +27,7 @@ Sou uma profissional com formação multidisciplinar e interesse em tecnologia, 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
 <img 
@@ -33,7 +36,7 @@ Sou uma profissional com formação multidisciplinar e interesse em tecnologia, 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-   
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-      original.svg
 />
 
 <img 
@@ -42,7 +45,7 @@ Sou uma profissional com formação multidisciplinar e interesse em tecnologia, 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-     
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  
 />
 <img 
     align="left" 
@@ -50,7 +53,7 @@ Sou uma profissional com formação multidisciplinar e interesse em tecnologia, 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
 />
 </p>
 
