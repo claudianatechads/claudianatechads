@@ -8,9 +8,9 @@
 </p>
 
 ---
-
-## 🚀 Sobre mim
 <details>
+## 🚀 Sobre mim
+
 <summary><strong> Sou natural de **Esperantina - PI** e venho construindo minha trajetória unindo diferentes áreas do conhecimento.
 
 Concluí o ensino médio no **Rio Grande do Sul**, junto com a formação técnica em **Segurança do Trabalho**, o que despertou meu interesse por áreas práticas, técnicas e multidisciplinares.
