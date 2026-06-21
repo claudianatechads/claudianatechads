@@ -8,7 +8,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UTFPR – Ponta Gros
 
 Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividades acadêmicas e projetos desenvolvidos ao longo da minha jornada na tecnologia.
 
-<img 
+< 
     aling="left"
     alt = "🎓 Estudante de Análise e Desenvolvimento de Sistemas na UTFPR"
 />
