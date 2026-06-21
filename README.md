@@ -36,5 +36,71 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 
 ---
 
-## ⚡ Sempre aprendendo
+# 🧾 Experiência Profissional
+
+<p align="left">
+  🚀 Experiência na área de Segurança do Trabalho com atuação em ambiente hospitalar e saúde ocupacional.
+</p>
+
+---
+
+## 🦺 Técnico de Segurança do Trabalho
+
+<details>
+<summary><strong>🏥 Instituto Brasileiro de Gestão da Saúde – Hospital (06/2021 – 04/2022)</strong></summary>
+
+📍 Juiz de Fora – MG, Brasil 
+
+<details>
+<summary><strong>🏥 MevMed - SP – Locadora | Oficina (09/2023 – 07/2024)</strong></summary>
+
+📍 Porto Alegre – RS, Brasil 
+
+### 🔧 Atividades principais:
+- Inspeções técnicas de segurança em ambiente hospitalar  
+- Controle e orientação sobre uso correto de EPIs  
+- Apoio na prevenção de acidentes de trabalho  
+- Emissão de CAT (Comunicação de Acidente de Trabalho)  
+- Suporte às ações da CIPA (reuniões e investigações de acidentes)  
+- Controle de exames ocupacionais (admissionais, periódicos e demissionais)  
+
+</details>
+
+---
+
+<details>
+<summary><strong>🏢 MevMed Saúde Ocupacional (09/2023 – 07/2024)</strong></summary>
+
+📍 Porto Alegre – RS, Brasil  
+
+### ⚙️ Atividades principais:
+- Gestão de rotinas de Segurança do Trabalho em ambiente corporativo  
+- Controle e fiscalização do uso de EPIs  
+- Elaboração de orçamentos para aquisição de equipamentos de segurança  
+- Aplicação de treinamentos e integração de novos colaboradores  
+- Coordenação de DDS (Diálogo Diário de Segurança)  
+- Organização da SIPAT (Semana Interna de Prevenção de Acidentes)  
+- Emissão de PPP (Perfil Profissiográfico Previdenciário)  
+- Emissão de NF e MTR  
+- Gestão da brigada de incêndio (inspeções, treinamentos e recargas de extintores)  
+- Atualização de eventos de SST no eSocial  
+
+</details>
+
+---
+
+## 💡 Competências desenvolvidas
+
+- 🦺 Segurança do Trabalho aplicada na prática  
+- 🧠 Gestão de riscos e prevenção de acidentes  
+- 🏥 Atuação em ambiente hospitalar  
+- 📋 Gestão documental (CAT, PPP, eSocial)  
+- 🔥 Brigada de incêndio e emergências  
+- 👥 Treinamento e integração de equipes  
+
+---
+
+## 🎯 Visão profissional
+
+Experiência focada em **prevenção, gestão de segurança e suporte operacional**, com atuação direta em ambientes de alta responsabilidade, como hospitais e saúde ocupacional.## ⚡ Sempre aprendendo
 > “O conhecimento conecta todas as áreas que eu escolhi seguir.”
