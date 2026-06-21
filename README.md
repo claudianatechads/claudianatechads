@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou a Claudiana
 
 <p align="left">
-  💻 Estudante de Análise e Desenvolvimento de Sistemas – UTFPR (Ponta Grossa)  
-  🧪 Graduanda em Biomedicina  
-  🦺 Técnica em Segurança do Trabalho  
-  ✈️ Formação em Aviação (Comissário de Voo e Manutenção de Aeronaves)  
+  -💻 Estudante de Análise e Desenvolvimento de Sistemas – UTFPR (Ponta Grossa)  
+  -🧪 Graduanda em Biomedicina  
+  -🦺 Técnica em Segurança do Trabalho  
+  -✈️ Formação em Aviação (Comissário de Voo e Manutenção de Aeronaves)  
 </p>
 
 ---
@@ -83,6 +83,15 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 
 </details>
 
+---
+
+<details>
+<summary><strong>🏢 Agair Update | Aviação Agricola (05/2022 – 07/2023)</strong></summary>
+
+📍 Brasil  
+</details>
+
+Assistente Partner
 ---
 
 ## 💡 Competências desenvolvidas
