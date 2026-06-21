@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Sobre mim
-
+<details>
 Sou natural de **Esperantina - PI** e venho construindo minha trajetória unindo diferentes áreas do conhecimento.
 
 Concluí o ensino médio no **Rio Grande do Sul**, junto com a formação técnica em **Segurança do Trabalho**, o que despertou meu interesse por áreas práticas, técnicas e multidisciplinares.
@@ -18,7 +18,7 @@ Concluí o ensino médio no **Rio Grande do Sul**, junto com a formação técni
 Atualmente, estou focada em **Análise e Desenvolvimento de Sistemas**, na UTFPR – Ponta Grossa, direcionando meus estudos para tecnologia, programação e desenvolvimento de soluções.
 
 Também possuo formação na área de **Aviação**, atuando como Comissário de Voo e com conhecimentos em Manutenção de Aeronaves, além de estar em formação em **Biomedicina**, ampliando minha visão na área da saúde.
-
+</details>
 ---
 
 ## 📚 Em constante evolução
@@ -50,10 +50,6 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 <summary><strong>🏥 Instituto Brasileiro de Gestão da Saúde – Hospital (06/2021 – 04/2022)</strong></summary>
 
 📍 Juiz de Fora – MG, Brasil 
-
-<summary><strong>🏥 MevMed - SP – Locadora | Oficina (09/2023 – 07/2024)</strong></summary>
-
-📍 Porto Alegre – RS, Brasil 
 
 ### 🔧 Atividades principais:
 - Inspeções técnicas de segurança em ambiente hospitalar  
@@ -87,7 +83,7 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 </details>
 
 ---
-
+<details>
 ## 💡 Competências desenvolvidas
 
 - 🦺 Segurança do Trabalho aplicada na prática  
@@ -96,6 +92,7 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 - 📋 Gestão documental (CAT, PPP, eSocial)  
 - 🔥 Brigada de incêndio e emergências  
 - 👥 Treinamento e integração de equipes  
+</details>
 
 ---
 
