@@ -8,14 +8,12 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UTFPR – Ponta Gros
 
 Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividades acadêmicas e projetos desenvolvidos ao longo da minha jornada na tecnologia.
 
-< 
-    aling="left"
-    alt = "🎓 Estudante de Análise e Desenvolvimento de Sistemas na UTFPR"
-/>
-🦺 Técnica em Segurança do Trabalho  
-✈️ Formação complementar em aviação e manutenção de aeronaves  
-🧪 Graduanda em Biomedicina  
-💻 Em constante aprendizado em programação e tecnologia  
+## 🎓 Formação
+
+![ADS](https://img.shields.io/badge/ADS-UTFPR-blue)
+![Biomedicina](https://img.shields.io/badge/Biomedicina-em%20andamento-green)
+![SST](https://img.shields.io/badge/Segurança%20do%20Trabalho-Técnico-orange)
+![Aviação](https://img.shields.io/badge/Aviação-Formação-lightgrey)  
 
 ## Sobre mim
 Sou uma profissional com formação multidisciplinar e interesse em tecnologia, saúde, segurança e aviação. No GitHub, utilizo este espaço para registrar meus estudos, projetos e evolução na área de desenvolvimento.
