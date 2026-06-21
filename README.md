@@ -1,67 +1,40 @@
+# 👋 Olá, eu sou a Claudiana
 
-# Olá, eu sou a Claudiana 👋
+<p align="left">
+  💻 Estudante de Análise e Desenvolvimento de Sistemas – UTFPR (Ponta Grossa)  
+  🧪 Graduanda em Biomedicina  
+  🦺 Técnica em Segurança do Trabalho  
+  ✈️ Formação em Aviação (Comissário de Voo e Manutenção de Aeronaves)  
+</p>
 
-Sou natural de Esperantina - PI e construo minha trajetória unindo diferentes áreas do conhecimento.
-Concluí o ensino médio no Rio Grande do Sul, juntamente com a formação técnica em Segurança do Trabalho.
+---
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas na UTFPR – Ponta Grossa, direcionando meu desenvolvimento para a área de tecnologia, programação e construção de projetos. Também possuo formação ligada à aviação, com qualificação em Comissário de Voo e Manutenção de Aeronaves, além de estar em formação na área de Biomedicina.
+## 🚀 Sobre mim
+
+Sou natural de **Esperantina - PI** e venho construindo minha trajetória unindo diferentes áreas do conhecimento.
+
+Concluí o ensino médio no **Rio Grande do Sul**, junto com a formação técnica em **Segurança do Trabalho**, o que despertou meu interesse por áreas práticas, técnicas e multidisciplinares.
+
+Atualmente, estou focada em **Análise e Desenvolvimento de Sistemas**, na UTFPR – Ponta Grossa, direcionando meus estudos para tecnologia, programação e desenvolvimento de soluções.
+
+Também possuo formação na área de **Aviação**, atuando como Comissário de Voo e com conhecimentos em Manutenção de Aeronaves, além de estar em formação em **Biomedicina**, ampliando minha visão na área da saúde.
+
+---
+
+## 📚 Em constante evolução
+
+- 💻 Programação e desenvolvimento de sistemas  
+- 🧠 Lógica e resolução de problemas  
+- 🔬 Biomedicina e ciências da saúde  
+- ✈️ Aviação e segurança operacional  
+
+---
+
+## 🎯 Objetivo
 
 Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividades acadêmicas e projetos desenvolvidos ao longo da minha jornada na tecnologia.
 
-## 🎓 Formação
+---
 
-🖥️ **Tecnologia**
-- Analise e Desenvolvimento em Sistemas – UTFPR | (em andamento)
-
-🧪 **Saúde**
-- Biomedicina | (em andamento)
-- Técnico em Segurança do Trabalho
-
-✈️ **Aviação**
-- Curso técnico em manutenção aeronáutica
-- Curso Comissário de voo | CCT
-- Curso Controle Técnico de Manutação.
-
-📚 **Desenvolvimento contínuo**
-- Programação e tecnologia
-
-## Sobre mim
-Sou uma profissional com formação multidisciplinar e interesse em tecnologia, saúde, segurança e aviação. No GitHub, utilizo este espaço para registrar meus estudos, projetos e evolução na área de desenvolvimento.
-
-## Tecnologias em aprendizado
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-      original.svg
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
-/>
-</p>
-
+## ⚡ Sempre aprendendo
+> “O conhecimento conecta todas as áreas que eu escolhi seguir.”
