@@ -8,16 +8,19 @@
 </p>
 
 ---
-<details>
+
 ## 🚀 Sobre mim
 
-<summary><strong> Sou natural de **Esperantina - PI** e venho construindo minha trajetória unindo diferentes áreas do conhecimento.
+---
+
+<details>
+Sou natural de **Esperantina - PI** e venho construindo minha trajetória unindo diferentes áreas do conhecimento.
 
 Concluí o ensino médio no **Rio Grande do Sul**, junto com a formação técnica em **Segurança do Trabalho**, o que despertou meu interesse por áreas práticas, técnicas e multidisciplinares.
 
 Atualmente, estou focada em **Análise e Desenvolvimento de Sistemas**, na UTFPR – Ponta Grossa, direcionando meus estudos para tecnologia, programação e desenvolvimento de soluções.
 
-Também possuo formação na área de **Aviação**, atuando como Comissário de Voo e com conhecimentos em Manutenção de Aeronaves, além de estar em formação em **Biomedicina**, ampliando minha visão na área da saúde.</summary></strong>
+Também possuo formação na área de **Aviação**, atuando como Comissário de Voo e com conhecimentos em Manutenção de Aeronaves, além de estar em formação em **Biomedicina**, ampliando minha visão na área da saúde.
 </details>
 ---
 
