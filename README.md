@@ -11,14 +11,16 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 ## 🎓 Formação
 
 🖥️ **Tecnologia**
-- ADS – UTFPR
+- Analise e Desenvolvimento em Sistemas – UTFPR | (em andamento)
 
 🧪 **Saúde**
-- Biomedicina (em andamento)
+- Biomedicina | (em andamento)
 - Técnico em Segurança do Trabalho
 
 ✈️ **Aviação**
-- Curso complementar em manutenção aeronáutica
+- Curso técnico em manutenção aeronáutica
+- Curso Comissário de voo | CCT
+- Curso Controle Técnico de Manutação.
 
 📚 **Desenvolvimento contínuo**
 - Programação e tecnologia
