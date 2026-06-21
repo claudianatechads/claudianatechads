@@ -65,6 +65,16 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 ---
 
 <details>
+<summary><strong>🏢 Agair Update | Aviação Agricola (05/2022 – 07/2023)</strong></summary>
+
+📍 Brasil  
+</details>
+
+Assistente Partner
+
+---
+
+<details>
 <summary><strong>🏢 MevMed Saúde Ocupacional - SP | Locadora - Oficina (09/2023 – 07/2024)</strong></summary>
 
 📍 Porto Alegre – RS, Brasil  
@@ -83,15 +93,6 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 
 </details>
 
----
-
-<details>
-<summary><strong>🏢 Agair Update | Aviação Agricola (05/2022 – 07/2023)</strong></summary>
-
-📍 Brasil  
-</details>
-
-Assistente Partner
 ---
 
 ## 💡 Competências desenvolvidas
