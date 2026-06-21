@@ -51,7 +51,6 @@ Este GitHub é o espaço onde compartilho minha evolução nos estudos, atividad
 
 📍 Juiz de Fora – MG, Brasil 
 
-<details>
 <summary><strong>🏥 MevMed - SP – Locadora | Oficina (09/2023 – 07/2024)</strong></summary>
 
 📍 Porto Alegre – RS, Brasil 
